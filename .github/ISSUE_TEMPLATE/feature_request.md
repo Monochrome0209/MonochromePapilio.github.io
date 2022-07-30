@@ -9,11 +9,7 @@ assignees: MonochromePapilio
 
 # 概要
 
-* [Issue]()
-
-<!-- 基本的にIssueからPRを作成するので、IssueのURLを添付してください -->
-
-<!-- 本PRの主題を簡潔に記載してください -->
+<!-- 本Issueの主題を簡潔に記載してください -->
 
 ## 実装方法
 
