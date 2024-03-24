@@ -8,7 +8,7 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,html, astro}\""
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,scss,astro}\""
   },
   "dependencies": {
     "@astrojs/check": "^0.5.10",
